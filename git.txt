@@ -1,4 +1,5 @@
-git init
+GIT INIT
 git status
 git commit -m comentario
+git push origin master
 gitignore
