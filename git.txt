@@ -1,4 +1,4 @@
-GIT INIT
+GIT INIT 121212
 git status
 git commit -m comentario
 git push origin master
